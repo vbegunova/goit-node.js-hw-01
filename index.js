@@ -47,15 +47,3 @@ async function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-
-// listContacts();
-// getContactById('C9sjBfCo4UJCWjzBnOtxl');
-// removeContact("ptykFpzJMvxKgQqiRiD3c");
-// addContact("Alec Howard", "Donec.elementum@scelerisquescelerisquedui.net", "(748) 206-2688");
-
-// {
-//   "id": "rsKkOQUi80UsgVPCcLZZW",
-//   "name": "Alec Howard",
-//   "email": "Donec.elementum@scelerisquescelerisquedui.net",
-//   "phone": "(748) 206-2688"
-// }
